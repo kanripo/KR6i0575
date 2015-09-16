@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:22:58.467537
+#+DATE: 2015-08-30 20:23:00.301975
 #+TITLE: 佛說大乘不思議神通境界經
 #+PROPERTY: CBETA_ID T17n0843
 #+PROPERTY: ID KR6i0575
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 843
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0575_T_003-0928b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《佛說大乘不思議神通境界經》卷¶
+《佛說大乘不思議神通境界經》卷¶
 下¶
 ¶
 西天譯經三藏朝奉大夫¶
