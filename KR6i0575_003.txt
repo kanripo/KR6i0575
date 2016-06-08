@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:00.301975
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:56
 #+TITLE: 佛說大乘不思議神通境界經
 #+PROPERTY: CBETA_ID T17n0843
 #+PROPERTY: ID KR6i0575
