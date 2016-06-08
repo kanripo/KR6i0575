@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:22:58.446437
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:56
 #+TITLE: 佛說大乘不思議神通境界經
 #+PROPERTY: CBETA_ID T17n0843
 #+PROPERTY: ID KR6i0575
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 843
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0575_T_002-0925b> ¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《佛說大乘不思議神通境界經》卷¶
+《佛說大乘不思議神通境界經》卷¶
 中¶
 ¶
 西天譯經三藏朝奉大夫¶
@@ -277,9 +276,9 @@
 「　「所有一切供養具，
 　寶衣寶器眾莊嚴；¶
 　妙吉祥尊所嚴身，
-　我今稱讚功德聚。」
+　我今稱讚功德聚。」」
 #+END_VERSE
-」¶
+¶
 
 爾時普華幢天子復白佛言：「世尊！此妙吉¶
 祥菩薩摩訶薩，最初於何佛世尊所發菩提¶
